@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{132894FE-2A30-44A9-AD3C-BF5BC876AEEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>USB_Raptor.My.MyApplication</StartupObject>
+    <RootNamespace>USB_Raptor</RootNamespace>
+    <AssemblyName>USB Raptor</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>USB Raptor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>USB Raptor.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\RaptorClaws_New.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmBlock.Designer.vb">
+      <DependentUpon>FrmBlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMonitor3.Designer.vb">
+      <DependentUpon>FrmMonitor3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMonitor3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNotification.Designer.vb">
+      <DependentUpon>FrmNotification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNumbers.Designer.vb">
+      <DependentUpon>FrmNumbers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNumbers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMonitor2.Designer.vb">
+      <DependentUpon>FrmMonitor2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMonitor2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.vb">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGuide.Designer.vb">
+      <DependentUpon>FrmGuide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGuide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMonitor1.Designer.vb">
+      <DependentUpon>FrmMonitor1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMonitor1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPassword.Designer.vb">
+      <DependentUpon>FrmPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplash.Designer.vb">
+      <DependentUpon>FrmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWizard.Designer.vb">
+      <DependentUpon>FrmWizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModPublicVals.vb" />
+    <Compile Include="Module1.vb" />
+    <Compile Include="Keyboard.vb" />
+    <Compile Include="Module_INI_Functions.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmBlock.resx">
+      <DependentUpon>FrmBlock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGuide.resx">
+      <DependentUpon>FrmGuide.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMonitor3.resx">
+      <DependentUpon>FrmMonitor3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNotification.resx">
+      <DependentUpon>FrmNotification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNumbers.resx">
+      <DependentUpon>FrmNumbers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMonitor2.resx">
+      <DependentUpon>FrmMonitor2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMonitor1.resx">
+      <DependentUpon>FrmMonitor1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPassword.resx">
+      <DependentUpon>FrmPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplash.resx">
+      <DependentUpon>FrmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWizard.resx">
+      <DependentUpon>FrmWizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Raptor2.ico" />
+    <Content Include="RaptorClaws2.ico" />
+    <None Include="Resources\RaptorText-About_Highlighted.png" />
+    <None Include="Resources\RaptorText-About.png" />
+    <None Include="Resources\Lock1.png" />
+    <None Include="Resources\RaptorText-Horizontal_200_DarkGray.png" />
+    <None Include="Resources\RaptorText-Vertical_200_LightGray.png" />
+    <None Include="Resources\RaptorText-Vertical_200.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Key.png" />
+    <None Include="Resources\Sound.png" />
+    <None Include="Resources\Puzzle.png" />
+    <None Include="Resources\Key2.png" />
+    <None Include="Resources\Box.png" />
+    <None Include="Resources\Note.png" />
+    <None Include="Resources\Star.png" />
+    <None Include="Resources\Lock.png" />
+    <None Include="Resources\Check2.png" />
+    <None Include="Resources\Start.png" />
+    <None Include="Resources\Backdoor.png" />
+    <None Include="Resources\Magic_Wand_Noise.wav" />
+    <None Include="Resources\RaptorClaws_New_GreenBlue_Claws.png" />
+    <None Include="Resources\RaptorClaws_New_Yellow.png" />
+    <None Include="Resources\RaptorClaws_New_Blue_Claws.png" />
+    <None Include="Resources\RaptorClaws_New_Blue_Tray.png" />
+    <None Include="Resources\RaptorClaws_New_Gray_Tray.png" />
+    <None Include="Resources\RaptorClaws_New.png" />
+    <None Include="Resources\RaptorClaws_New_Blue_Tray.ico" />
+    <None Include="Resources\RaptorClaws_New_Red_Tray.ico" />
+    <None Include="Resources\RaptorClaws_New_Green_Tray.ico" />
+    <None Include="Resources\RaptorClaws_New_Purple_Tray.ico" />
+    <None Include="Resources\RaptorClaws_New_Gray_Tray.ico" />
+    <None Include="Resources\RaptorClaws_New_Yellow.ico" />
+    <None Include="Resources\RaptorClaws_New_Red.ico" />
+    <None Include="Resources\RaptorClaws_New_Purrple.ico" />
+    <None Include="Resources\RaptorClaws_New_Purple_Claws.ico" />
+    <None Include="Resources\RaptorClaws_New_Orange_Claws.ico" />
+    <None Include="Resources\RaptorClaws_New_GreenBlue_Claws.ico" />
+    <None Include="Resources\RaptorClaws_New_Green_Claws.ico" />
+    <None Include="Resources\RaptorClaws_New_Green.ico" />
+    <None Include="Resources\RaptorClaws_New_DarkBlue.ico" />
+    <None Include="Resources\RaptorClaws_New_Blue_Claws.ico" />
+    <None Include="Resources\RaptorClaws_New.ico" />
+    <None Include="Resources\RaptorClawsRED.png" />
+    <None Include="Resources\RaptorClaws2.png" />
+    <None Include="Resources\RaptorClaws.png" />
+    <None Include="Resources\RaptorRED.ico" />
+    <None Include="Resources\RaptorPURPLE.ico" />
+    <None Include="Resources\RaptorGREEN.ico" />
+    <None Include="Resources\Raptor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

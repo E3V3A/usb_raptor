@@ -1,0 +1,44 @@
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\Raptor.exe
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\Raptor.pdb
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\Raptor.xml
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Interop.Scripting.dll
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.vbproj.ResolveComReference.cache
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmBlock.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmDiagnostcis.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmMonitor3.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmNotification.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmNumbers.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmMonitor2.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmAbout.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmMain.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmMonitor1.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmPassword.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmSplash.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.FrmWizard.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.Resources.resources
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.vbproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.exe
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.xml
+D:\Dropbox\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Raptor.pdb
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\Interop.Scripting.dll
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.vbproj.ResolveComReference.cache
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.vbproj.GenerateResource.Cache
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\USB Raptor.exe
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\USB Raptor.pdb
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\bin\Debug\USB Raptor.xml
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmBlock.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmDiagnostcis.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmMonitor3.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmNotification.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmNumbers.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmMonitor2.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmAbout.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmMain.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmMonitor1.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmPassword.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmSplash.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.FrmWizard.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB_Raptor.Resources.resources
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.exe
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.xml
+D:\DRPBOX\Dropbox\.Common\Development\VB11\Raptor\Raptor\Raptor\obj\Debug\USB Raptor.pdb

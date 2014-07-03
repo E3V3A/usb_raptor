@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+USBRaptor
+</name>
+</assembly>
+<members>
+<member name="P:USB_Raptor.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Backdoor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Check2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Key2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Lock1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Magic_Wand_Noise">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Note">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Puzzle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Raptor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Blue_Claws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Blue_Claws1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Blue_Tray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Blue_Tray1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_DarkBlue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Gray_Tray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Gray_Tray1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Green_Claws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Green_Tray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_GreenBlue_Claws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_GreenBlue_Claws1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Orange_Claws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Purple_Claws">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Purple_Tray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Purrple">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Red_Tray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Yellow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws_New_Yellow1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClaws2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorClawsRED">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorGREEN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorPURPLE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorRED">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorText_About">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorText_About_Highlighted">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorText_Horizontal_200_DarkGray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.RaptorText_Vertical_200_LightGray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Sound">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Star">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:USB_Raptor.My.Resources.Resources.Start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:USB_Raptor.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
